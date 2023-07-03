@@ -9,3 +9,5 @@ function applySeniorDiscount(age) {
 
 const discount = applySeniorDiscount(66);
 console.log(discount);
+
+
